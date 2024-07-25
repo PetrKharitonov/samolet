@@ -28,6 +28,8 @@ const BrandingPage = () => {
       </div>
 
       <div>
+
+        
         <video style={{width: '100%', marginTop: "1rem"}} src="http://a1010350.xsph.ru/wp-content/uploads/2024/07/compressed.mp4" width="680" height="400" playsInline controls></video>
       </div>
 
